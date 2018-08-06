@@ -50,4 +50,5 @@ fs.readdir('./events/', (err, files) => {
   });
 });
 
+
 client.login(config.botToken);
